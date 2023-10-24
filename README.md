@@ -26,7 +26,9 @@ Run in command line: `python blackjack_game.py`
 
 ## Rock, Paper, Scissors
 
-This is Rock, Paper, Scissors game, 
+This is Rock, Paper, Scissors game.
+
+Run in command line: `python rock_paper_scissors.py` 
 
 ## Guess The Number
 
@@ -43,7 +45,11 @@ This is Rock, Paper, Scissors game,
     + You can picks a upper bound number.
     + Rule same as above, you are guesser and computer are chooser.
 
+Run in command line: `python guess_the_number.py` 
+
 
 ## Madlibs
 
 Fill in some words and you will get an interesting paragraph.
+
+Run in command line: `python madlibs.py` 
